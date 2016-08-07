@@ -3,13 +3,13 @@ import pyb
 import buttons
 
 def display1():
-	ugfx.display_image(0,0,'apps/dogerocketride/1.gif')
+	ugfx.display_image(0,0,'apps/apps/rootzoll~dogerocketride/1.gif')
 
 def display2():
-	ugfx.display_image(0,0,'apps/dogerocketride/2.gif')
+	ugfx.display_image(0,0,'apps/apps/rootzoll~dogerocketride/2.gif')
 
 def display3():
-	ugfx.display_image(0,0,'apps/dogerocketride/3.gif')
+	ugfx.display_image(0,0,'apps/apps/rootzoll~dogerocketride/3.gif')
 
 buttons.init()
 
